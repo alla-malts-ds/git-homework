@@ -1,5 +1,5 @@
-Git Homework
-This repository was created for practicing basic Git commands.
+New practice
+This section was added to practice staging and committing changes.
 
 Commands practiced
 git init
