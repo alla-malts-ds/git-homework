@@ -1,2 +1,4 @@
 New wonderful file in a separate branch!
+Add line
+Add line2
 one more line.
